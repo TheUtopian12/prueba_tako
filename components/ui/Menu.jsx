@@ -7,7 +7,7 @@ const Menu = () => {
   return (
     <>
       <button
-        className="ml-[50%] bg-green-600 "
+        className="ml-[50%] bg-blue-600 "
         onClick={() => setActivo(!activo)}
       >
         Activar menu
